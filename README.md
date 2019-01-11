@@ -1,2 +1,2 @@
 # cartpole-ai
-Using reinforcement learning to train an AI to play a stick-balancing game
+Tinkering around with Q-learning by playing cartpole through OpenAI's gym.
